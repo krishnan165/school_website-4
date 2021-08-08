@@ -1,6 +1,7 @@
 body{
     text-align: center;
     background-color:aquamarine;
+    scroll-behavior:smooth;
 }
 #im1{
     width:800px;
